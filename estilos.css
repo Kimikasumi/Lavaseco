@@ -1,0 +1,32 @@
+
+.contenedor{
+position:relative;
+width: 85%;
+padding-left: 20px;
+padding-top: 15px;
+background-color: #e5dfcd;
+border-radius: 20px;
+margin: auto;
+}
+
+#cajitas{
+margin-left:40px;
+margin-right:40px;
+padding:15px;
+}
+
+#boton{margin-botton:20px;
+width:40%;
+padding:10px;
+box-sizing:border-box; border: 1px solid #ccc;
+}
+
+input[type="submit"]{margin-bottom:20px;
+					 margin-top:20px; 	
+					 background:#1668C4; 	
+					 color:#fff; 	
+					 boder:none;}
+
+input[type="submit"]:hover {background:#4A88F4;	
+							cursor:pointer;	
+							box-shadow: 5px 5px 0px #ccc;}
